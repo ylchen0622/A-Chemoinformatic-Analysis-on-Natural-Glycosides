@@ -5,4 +5,17 @@
 <h4> Data Sources: Dictionary of Natural Products (CRC Press, v25.1) </h4>
 
 ### 1 Data Preprocess
-#### 1.1 Data Standard
+
+### 2 Biological Source and Structural Type
+
+### 3 Removal Sugar
+
+### 4 Structural Type and Glycosylation
+
+### 5 Biological Source and Glycosylation
+
+### 6 Physicochemical Properties
+
+### 7 Sugar Analysis
+
+### 8 Murcko Analysis
