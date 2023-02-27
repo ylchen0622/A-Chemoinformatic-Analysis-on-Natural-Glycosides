@@ -5,10 +5,10 @@
 
 
 <h4>
-Dictionary of Natural Products (CRC Press, v25.1) <br>
-Python (Version 3.7.0) <br>
-RDKit (Version 2020.09.1.0) <br>
-Pipeline Pilot (Version 2016) <br>
+① Dictionary of Natural Products (CRC Press, v25.1) <br>
+② Python (Version 3.7.0) <br>
+③ RDKit (Version 2020.09.1.0) <br>
+④ Pipeline Pilot (Version 2016) <br>
 </h4>
 
 #### 1 Data Preprocess
