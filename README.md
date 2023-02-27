@@ -4,10 +4,10 @@
 #### &emsp;&emsp; We plan to publish this research in Nat. Prod. Rep. Of particular note, the original dataset (DNP) used in this study was distributed commercially and we cannot share it online. Processed data are available to the academic community upon request.
 
 <h4>
-Dictionary of Natural Products (CRC Press, v25.1)
-Python (Version 3.7.0)
-RDKit (Version 2020.09.1.0)
-Pipeline Pilot (Version 2016) 
+Dictionary of Natural Products (CRC Press, v25.1) <br>
+Python (Version 3.7.0) <br>
+RDKit (Version 2020.09.1.0) <br>
+Pipeline Pilot (Version 2016) <br>
 </h4>
 
 #### 1 Data Preprocess
