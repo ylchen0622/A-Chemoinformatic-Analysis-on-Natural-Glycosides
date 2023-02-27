@@ -32,9 +32,9 @@
 
 #### 7 Sugar Analysis
 <h5> 
-&emsp;&emsp; ① Terminal and Non-Terminal sugar <br>
+&emsp;&emsp; ① Terminal and non-terminal sugar <br>
 &emsp;&emsp; ② Glycosidic bond type <br>
-&emsp;&emsp; ③ Circular and Linear Sugar <br>
+&emsp;&emsp; ③ Circular and linear Sugar <br>
 &emsp;&emsp; ④ Glycosyl substitution types <br>
 &emsp;&emsp; ⑤ Glycosyl substitution sites <br>
 </h5>
