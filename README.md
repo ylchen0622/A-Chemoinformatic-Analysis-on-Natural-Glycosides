@@ -11,19 +11,12 @@
 ④ Pipeline Pilot (Version 2016) <br>
 </h4>
 
-### Codes
+### Codes:
 #### 1 Data Preprocess
-
 #### 2 Biological Source and Structural Type
-
 #### 3 Removal Sugar
-
 #### 4 Structural Type and Glycosylation
-
 #### 5 Biological Source and Glycosylation
-
 #### 6 Physicochemical Properties
-
 #### 7 Sugar Analysis
-
 #### 8 Murcko Analysis
