@@ -14,16 +14,22 @@
 ### Codes:
 <h4> 1 Data Preprocess </h4>
 <h5> &emsp;&emsp; Extraction and preprocessing of compounds in DNP database. </h5>
+
 <h4> 2 Biological Source and Structural Type </h4>
 <h5> &emsp;&emsp; Distribution of natural products from different biological sources or structure types. </h5>
+
 <h4> 3 Removal Sugar </h4>
 <h5> &emsp;&emsp; The deglycosylation results of two different deglycosylated methods (removing only terminal sugars and removing all sugars) of SRU. </h5>
+
 <h4> 4 Structural Type and Glycosylation </h4>
 <h5> &emsp;&emsp; Glycosylation ratio and glycoside distribution of natural products from different structural types. </h5>
+
 <h4> 5 Biological Source and Glycosylation </h4>
 <h5> &emsp;&emsp; Glycosylation ratio and glycoside distribution of natural products from different biological sources. </h5>
+
 <h4> 6 Physicochemical Properties </h4>
 <h5> &emsp;&emsp; The physicochemical properties of glycosides, aglycones and non-glycosides. </h5>
+
 <h4> 7 Sugar Analysis </h4>
 <h5> 
 &emsp;&emsp; ① Terminal and non-terminal sugar <br>
@@ -32,5 +38,6 @@
 &emsp;&emsp; ④ Glycosyl substitution types <br>
 &emsp;&emsp; ⑤ Glycosyl substitution sites <br>
 </h5>
+
 <h4> 8 Murcko Analysis </h4>
 <h5> &emsp;&emsp; Dominant and Unique Murcko scaffolds and their glycosylation ratios of natural products with biological sources. </h5>
