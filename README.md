@@ -13,6 +13,7 @@
 
 ### Codes:
 #### 1 Data Preprocess
+Extraction and preprocessing of DNP database
 #### 2 Biological Source and Structural Type
 #### 3 Removal Sugar
 #### 4 Structural Type and Glycosylation
