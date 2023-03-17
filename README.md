@@ -13,7 +13,7 @@
 
 ### Codes:
 <h4> 1 Data Preprocess </h4>
-<h5> &emsp;&emsp; Extraction and preprocessing of compounds in DNP database. </h5>
+<h5> &emsp;&emsp; Extraction and preprocessing of natural products in DNP database. </h5>
 
 <h4> 2 Biological Source and Structural Type </h4>
 <h5> &emsp;&emsp; Distribution of natural products from different biological sources or structure types. </h5>
