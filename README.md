@@ -25,10 +25,10 @@
 <h5> &emsp;&emsp; The deglycosylation results of two different deglycosylated methods (removing only terminal sugars and removing all sugars) of SRU. </h5>
 
 <h4> 4 Structural Type and Glycosylation </h4>
-<h5> &emsp;&emsp; Glycosylation ratio and glycoside distribution of natural products from different structural types. </h5>
+<h5> &emsp;&emsp; Glycosylation ratios and natural glycoside distribution in different structural types. </h5>
 
 <h4> 5 Biological Source and Glycosylation </h4>
-<h5> &emsp;&emsp; Glycosylation ratio and glycoside distribution of natural products from different biological sources. </h5>
+<h5> &emsp;&emsp; Glycosylation ratios and natural glycoside distribution in different biological sources. </h5>
 
 <h4> 6 Physicochemical Properties </h4>
 <h5> &emsp;&emsp; The physicochemical properties of glycosides, aglycones and non-glycosides. </h5>
