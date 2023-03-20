@@ -4,7 +4,9 @@
 ---------------------------------------------------------------------------------------------
 ### Data Source:
 <h4>The Dictionary of Natural Products (CRC Press, v25.1)</h4>
+
 ### &emsp;&emsp; Of particular note, the original dataset (DNP) used in this study was distributed commercially and we cannot share it online. Processed data are available to the academic community upon request.
+
 ### Software Versions:
 <h4>
 ① Python (Version 3.7.0) <br>
