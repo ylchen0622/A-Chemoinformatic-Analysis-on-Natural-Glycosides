@@ -7,14 +7,14 @@
 
 ### <h4>Of particular note, the original dataset (DNP) used in this study was distributed commercially and we cannot share it online. Processed data are available to the academic community upon request.</h4>
 
-### Software Versions:
+### >>>Software Versions:
 <h4>
 ① Python (Version 3.7.0) <br>
 ② RDKit (Version 2020.09.1.0) <br>
 ③ Pipeline Pilot (Version 2016) <br>
 </h4>
 
-### Codes:
+### >>>Codes:
 <h4> 1 Data Preprocess </h4>
 <h5> &emsp;&emsp; Extraction and preprocessing of natural products in DNP database. </h5>
 
