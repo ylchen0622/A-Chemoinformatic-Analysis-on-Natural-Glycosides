@@ -21,7 +21,7 @@
 <h4> 2 Biological Source and Structural Type </h4>
 <h5> &emsp;&emsp; Distribution of natural products from different biological sources or structure types. </h5>
 
-<h4> 3 Deglycosylation </h4>
+<h4> 3 Removing sugar </h4>
 <h5> &emsp;&emsp; The deglycosylation results of two different deglycosylated methods (removing only terminal sugars and removing all sugars) of SRU. </h5>
 
 <h4> 4 Structural Type and Glycosylation </h4>
