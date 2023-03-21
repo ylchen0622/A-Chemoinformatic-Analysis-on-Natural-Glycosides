@@ -23,21 +23,19 @@ The Dictionary of Natural Products (CRC Press, v25.1)
 &emsp;&emsp; The deglycosylation results of two different deglycosylated methods (removing only terminal sugars and removing all sugars) of SRU.
 
 <h4> 4 Natural Glycosides Analysis </h4>
-<h5> 
 &emsp;&emsp; ① Terminal and non-terminal sugar <br>
 &emsp;&emsp; ② Glycosidic bond types <br>
 &emsp;&emsp; ③ Circular and linear Sugar <br>
 &emsp;&emsp; ④ Glycosyl substitution types <br>
-</h5>
 
 <h4> 5 Biological Source and Glycosylation </h4>
-<h5> &emsp;&emsp; Glycosylation ratios and natural glycoside distribution in different biological sources. </h5>
+&emsp;&emsp; Glycosylation ratios and natural glycoside distribution in different biological sources.
 
 <h4> 6 Structural Type and Glycosylation </h4>
-<h5> &emsp;&emsp; Glycosylation ratios and natural glycoside distribution in different structural types. </h5>
+&emsp;&emsp; Glycosylation ratios and natural glycoside distribution in different structural types.
 
 <h4> 7 Physicochemical Properties </h4>
-<h5> &emsp;&emsp; The physicochemical properties of glycosides, aglycones and non-glycosides. </h5>
+&emsp;&emsp; The physicochemical properties of glycosides, aglycones and non-glycosides.
 
 <h4> 8 Murcko Scaffold Analysis </h4>
-<h5> &emsp;&emsp; Dominant and Unique Murcko scaffolds and their glycosylation ratios of natural products with biological sources. </h5>
+&emsp;&emsp; Dominant and Unique Murcko scaffolds and their glycosylation ratios of natural products with biological sources.
