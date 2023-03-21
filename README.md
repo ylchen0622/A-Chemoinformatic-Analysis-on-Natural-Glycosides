@@ -33,6 +33,8 @@ java -jar "SugarRemovalUtility-jar-with-dependencies.jar" -i "filename" -t "3" -
 
 Removing Terminal Sugars:
 java -jar "SugarRemovalUtility-jar-with-dependencies.jar" -i "filename" -t "3" -remTerm "true" -presMode "1" -oxyAtomsThres "0.4"
+
+Other parameters were set as the default values.
 ```
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -t "3": Circular and linear sugar moieties should be removed. <br>
