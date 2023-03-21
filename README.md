@@ -26,11 +26,12 @@ The Dictionary of Natural Products (CRC Press, v25.1)
 - The deglycosylation results of two different deglycosylated methods (removing only terminal sugars and removing all sugars) of SRU.<br>
 The parameters were set as follows: 
 ```
-- Removing All Sugars
+Removing All Sugars
 java -jar "SugarRemovalUtility-jar-with-dependencies.jar" -i "filename" -t "3" -remTerm "false" -presMode "1" -oxyAtomsThres "0.4"
 
-- Removing Terminal Sugars:
-java -jar "SugarRemovalUtility-jar-with-dependencies.jar" -i "filename" -t "3" -remTerm "false" -presMode "1" -oxyAtomsThres "0.4"
+Removing Terminal Sugars:
+java -jar "SugarRemovalUtility-jar-with-dependencies.jar" -i "filename" -t "3" -remTerm "true" -presMode "1" -oxyAtomsThres "0.4"
+
 ```
 -t "3": Circular and liinear sugar moieties should be removed. <br>
 -remTerm "false": Terminal and Non-terminal sugar moieties should be removed. <br>
