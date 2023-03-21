@@ -8,9 +8,9 @@ The Dictionary of Natural Products (CRC Press, v25.1)
 <h4>Of particular note, the original dataset (DNP) used in this study is distributed commercially and we cannot share it online. Processed data are available to the academic community upon request.</h4>
 
 ### >>>Software Versions:
-① Python (Version 3.7.0) 
-② RDKit (Version 2020.09.1.0) 
-③ Pipeline Pilot (Version 2016)
+① Python (Version 3.7.0) <br>
+② RDKit (Version 2020.09.1.0) <br> 
+③ Pipeline Pilot (Version 2016) <br>
 
 ### >>>Codes:
 <h4> 1 Data Preprocessing </h4>
