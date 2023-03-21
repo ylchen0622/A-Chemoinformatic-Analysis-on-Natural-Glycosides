@@ -14,7 +14,7 @@ The Dictionary of Natural Products (CRC Press, v25.1)
 
 ### >>>Codes:
 <h4> 1 Data Preprocessing </h4>
-&emsp;&emsp; Extraction and standardization of natural products in DNP database. 
+&emsp;&emsp; Extraction and standardization of natural products in DNP database. The structures were standardized by Pipeline Pilot, including keeping the largest fragment, removing the inorganic compounds, and adding hydrogen atoms.
 
 <h4> 2 Biological Source and Structural Type </h4>
 &emsp;&emsp; Distribution of natural products from different biological sources or structure types.
