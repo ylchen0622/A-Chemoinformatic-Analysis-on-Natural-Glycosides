@@ -28,7 +28,7 @@ The parameters were set as follows:
 ```
 java -jar "SugarRemovalUtility-jar-with-dependencies.jar" -i "filename" -t "3" -remTerm "false" -presMode "1" -oxyAtomsThres "0.4"
 ```
--t "3": Circular and liinear sugar moieties should be removed. <br>
+### -t "3": Circular and liinear sugar moieties should be removed. <br>
 -remTerm "false": Terminal and Non-terminal sugar moieties should be removed. <br>
 -presMode "1": Remove disconnected structures that do not have enough heavy atoms (default: 5). <br>
 -oxyAtomsThres "0.4": The minimum ratio of the exocyclic oxygen atoms of a circular sugar to the atoms in the sugar ring was set to 0.4. <br>
