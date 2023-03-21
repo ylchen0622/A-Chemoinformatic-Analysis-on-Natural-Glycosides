@@ -35,7 +35,7 @@ Removing Terminal Sugars:
 java -jar "SugarRemovalUtility-jar-with-dependencies.jar" -i "filename" -t "3" -remTerm "true" -presMode "1" -oxyAtomsThres "0.4"
 ```
 
--t "3": Circular and linear sugar moieties should be removed. <br>
+&nbsp;&nbsp; -t "3": Circular and linear sugar moieties should be removed. <br>
 -remTerm "false": Terminal and Non-terminal sugar moieties should be removed. <br>
 -remTerm "true": Only terminal sugar moieties should be removed. <br>
 -presMode "1": Remove disconnected structures that do not have enough heavy atoms (default 5 heavy atoms). <br>
