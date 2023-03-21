@@ -45,4 +45,7 @@ Glycosylation ratios and natural glycoside distribution in different structural 
 The physicochemical properties of glycosides, aglycones and non-glycosides.
 
 <h4> 8 Murcko Scaffold Analysis </h4>
-Dominant and Unique Murcko scaffolds and their glycosylation ratios of natural products with biological sources.
+
+ - The murcko scaffolds of natural products with biological source.
+ - The unique murcko scaffolds of aglycones and non-glycosides.
+ - The glycosylation ratio of each murcko scaffold.
