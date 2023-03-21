@@ -41,5 +41,5 @@
 <h4> 7 Physicochemical Properties </h4>
 <h5> &emsp;&emsp; The physicochemical properties of glycosides, aglycones and non-glycosides. </h5>
 
-<h4> 8 Murcko Analysis </h4>
+<h4> 8 Murcko Scaffold Analysis </h4>
 <h5> &emsp;&emsp; Dominant and Unique Murcko scaffolds and their glycosylation ratios of natural products with biological sources. </h5>
