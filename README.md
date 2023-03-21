@@ -27,6 +27,8 @@ The Dictionary of Natural Products (CRC Press, v25.1)
 
 ``` 
 The parameters were set as follows: 
+
+java -jar "SugarRemovalUtility-jar-with-dependencies.jar" -i "filename" -t "3" -remTerm "false" -presMode "1" -oxyAtomsThres "0.4"
 -t "3": Circular and liinear sugar moieties should be removed.
 -remTerm "false": Terminal and Non-terminal sugar moieties should be removed.
 -presMode "1": Remove disconnected structures that do not have enough heavy atoms (default: 5).
