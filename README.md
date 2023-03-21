@@ -21,7 +21,7 @@ The Dictionary of Natural Products (CRC Press, v25.1)
 
 - Distribution of natural products from different biological sources or structure types.
 
-<h4> 3 Removing sugar </h4>
+<h4> 3 Removing Sugar </h4>
 The deglycosylation results of two different deglycosylated methods (removing only terminal sugars and removing all sugars) of SRU.<br>
 
 ``` 
