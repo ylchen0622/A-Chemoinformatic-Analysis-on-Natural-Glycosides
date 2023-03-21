@@ -21,7 +21,7 @@ Distribution of natural products from different biological sources or structure 
 
 <h4> 3 Removing sugar </h4>
 The deglycosylation results of two different deglycosylated methods (removing only terminal sugars and removing all sugars) of SRU.<br>
-```The parameters were set as follows: <br>```
+``` The parameters were set as follows: <br> ```
 
 
 <h4> 4 Natural Glycosides Analysis </h4>
