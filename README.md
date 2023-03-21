@@ -35,11 +35,11 @@ Removing Terminal Sugars:
 java -jar "SugarRemovalUtility-jar-with-dependencies.jar" -i "filename" -t "3" -remTerm "true" -presMode "1" -oxyAtomsThres "0.4"
 ```
 
-&nbsp;&nbsp;&nbsp;&nbsp; -t "3": Circular and linear sugar moieties should be removed. <br>
-&nbsp;&nbsp;&nbsp;&nbsp; -remTerm "false": Terminal and Non-terminal sugar moieties should be removed. <br>
-&nbsp;&nbsp;&nbsp;&nbsp; -remTerm "true": Only terminal sugar moieties should be removed. <br>
-&nbsp;&nbsp;&nbsp;&nbsp; -presMode "1": Remove disconnected structures that do not have enough heavy atoms (default 5 heavy atoms). <br>
-&nbsp;&nbsp;&nbsp;&nbsp; -oxyAtomsThres "0.4": The minimum ratio of the exocyclic oxygen atoms of a circular sugar to the atoms in the sugar ring was set to 0.4. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -t "3": Circular and linear sugar moieties should be removed. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -remTerm "false": Terminal and Non-terminal sugar moieties should be removed. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -remTerm "true": Only terminal sugar moieties should be removed. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -presMode "1": Remove disconnected structures that do not have enough heavy atoms (default 5 heavy atoms). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -oxyAtomsThres "0.4": The minimum ratio of the exocyclic oxygen atoms of a circular sugar to the atoms in the sugar ring was set to 0.4. <br>
 
 <h4> 4 Natural Glycosides Analysis </h4>
 
