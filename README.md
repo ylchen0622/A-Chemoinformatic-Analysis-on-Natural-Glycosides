@@ -5,7 +5,7 @@
 ### >>>Data Source:
 <h4>The Dictionary of Natural Products (CRC Press, v25.1)</h4>
 
-### <h4>Of particular note, the original dataset (DNP) used in this study is distributed commercially and we cannot share it online. Processed data are available to the academic community upon request.</h4>
+<h4>Of particular note, the original dataset (DNP) used in this study is distributed commercially and we cannot share it online. Processed data are available to the academic community upon request.</h4>
 
 ### >>>Software Versions:
 <h4>
