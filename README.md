@@ -27,7 +27,10 @@ The Dictionary of Natural Products (CRC Press, v25.1)
 
 ``` 
 The parameters were set as follows: 
--t 3: Circular and liinear sugar moieties should be removed
+-t "3": Circular and liinear sugar moieties should be removed.
+-remTerm "false": Terminal and Non-terminal sugar moieties should be removed.
+-presMode "1": Remove disconnected structures that do not have enough heavy atoms (default: 5).
+-oxyAtomsThres "0.4": The minimum ratio of the exocyclic oxygen atoms of a circular sugar to the atoms in the sugar ring was set to 0.4.
 ```
 
 
