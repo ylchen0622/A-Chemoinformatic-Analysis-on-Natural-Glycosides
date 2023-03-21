@@ -25,10 +25,10 @@ The parameters were set as follows: <br>
 
 
 <h4> 4 Natural Glycosides Analysis </h4>
-① Terminal and non-terminal sugar <br>
-② Glycosidic bond types <br>
-③ Circular and linear Sugar <br>
-④ Glycosyl substitution types <br>
+(1) Terminal and non-terminal sugar <br>
+(2) Glycosidic bond types <br>
+(3) Circular and linear Sugar <br>
+(4) Glycosyl substitution types <br>
 
 <h4> 5 Biological Source and Glycosylation </h4>
 Glycosylation ratios and natural glycoside distribution in different biological sources.
