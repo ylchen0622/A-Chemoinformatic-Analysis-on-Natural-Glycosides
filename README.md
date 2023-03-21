@@ -27,15 +27,16 @@ The Dictionary of Natural Products (CRC Press, v25.1)
 
 ``` 
 The parameters were set as follows: 
+
 ```
 
 
 <h4> 4 Natural Glycosides Analysis </h4>
 
-- (1) Terminal and non-terminal sugar <br>
-- (2) Glycosidic bond types <br>
-- (3) Circular and linear sugar <br>
-- (4) Glycosyl substitution types <br>
+- Terminal and non-terminal sugar <br>
+- Glycosidic bond types <br>
+- Circular and linear sugar <br>
+- Glycosyl substitution types <br>
 
 <h4> 5 Biological Source and Glycosylation </h4>
 
