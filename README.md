@@ -27,7 +27,7 @@ The Dictionary of Natural Products (CRC Press, v25.1)
 
 ``` 
 The parameters were set as follows: 
-
+-t 3: Circular and liinear sugar moieties should be removed
 ```
 
 
