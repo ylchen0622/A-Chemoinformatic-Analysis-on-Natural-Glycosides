@@ -14,16 +14,18 @@ The Dictionary of Natural Products (CRC Press, v25.1)
 
 ### >>>Codes:
 <h4> 1 Data Preprocessing </h4>
-Extraction and standardization of natural products in DNP database. 
+
+- Extraction and standardization of natural products in DNP database. 
 
 <h4> 2 Biological Source and Structural Type </h4>
-Distribution of natural products from different biological sources or structure types.
+
+- Distribution of natural products from different biological sources or structure types.
 
 <h4> 3 Removing sugar </h4>
 The deglycosylation results of two different deglycosylated methods (removing only terminal sugars and removing all sugars) of SRU.<br>
 
 ``` 
-The parameters were set as follows: <br>
+The parameters were set as follows: 
 ```
 
 
