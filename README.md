@@ -22,7 +22,8 @@ The Dictionary of Natural Products (CRC Press, v25.1)
 - Distribution of natural products from different biological sources or structure types.
 
 <h4> 3 Removing Sugar </h4>
-The deglycosylation results of two different deglycosylated methods (removing only terminal sugars and removing all sugars) of SRU.<br>
+
+- The deglycosylation results of two different deglycosylated methods (removing only terminal sugars and removing all sugars) of SRU.<br>
 
 ``` 
 The parameters were set as follows: 
@@ -30,19 +31,23 @@ The parameters were set as follows:
 
 
 <h4> 4 Natural Glycosides Analysis </h4>
-(1) Terminal and non-terminal sugar <br>
-(2) Glycosidic bond types <br>
-(3) Circular and linear sugar <br>
-(4) Glycosyl substitution types <br>
+
+- (1) Terminal and non-terminal sugar <br>
+- (2) Glycosidic bond types <br>
+- (3) Circular and linear sugar <br>
+- (4) Glycosyl substitution types <br>
 
 <h4> 5 Biological Source and Glycosylation </h4>
-Glycosylation ratios and natural glycoside distribution in different biological sources.
+
+- Glycosylation ratios and natural glycoside distribution in different biological sources.
 
 <h4> 6 Structural Type and Glycosylation </h4>
-Glycosylation ratios and natural glycoside distribution in different structural types.
+
+- Glycosylation ratios and natural glycoside distribution in different structural types.
 
 <h4> 7 Physicochemical Properties </h4>
-The physicochemical properties of glycosides, aglycones and non-glycosides.
+
+- The physicochemical properties of glycosides, aglycones and non-glycosides.
 
 <h4> 8 Murcko Scaffold Analysis </h4>
 
