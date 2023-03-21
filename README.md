@@ -24,16 +24,14 @@ The Dictionary of Natural Products (CRC Press, v25.1)
 <h4> 3 Removing Sugar </h4>
 
 - The deglycosylation results of two different deglycosylated methods (removing only terminal sugars and removing all sugars) of SRU.<br>
-
-``` 
 The parameters were set as follows: 
-
+```
 java -jar "SugarRemovalUtility-jar-with-dependencies.jar" -i "filename" -t "3" -remTerm "false" -presMode "1" -oxyAtomsThres "0.4"
+```
 -t "3": Circular and liinear sugar moieties should be removed.
 -remTerm "false": Terminal and Non-terminal sugar moieties should be removed.
 -presMode "1": Remove disconnected structures that do not have enough heavy atoms (default: 5).
 -oxyAtomsThres "0.4": The minimum ratio of the exocyclic oxygen atoms of a circular sugar to the atoms in the sugar ring was set to 0.4.
-```
 
 
 <h4> 4 Natural Glycosides Analysis </h4>
