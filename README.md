@@ -23,7 +23,7 @@ The Dictionary of Natural Products (CRC Press, v25.1)
 
 <h4> 3 Removing Sugar </h4>
 
-- The deglycosylation results of two different deglycosylated methods (removing only terminal sugars and removing all sugars) of SRU.<br>
+- The deglycosylation results of two different deglycosylated methods (removing only terminal sugars and removing all sugars) of [SRU](https://github.com/JonasSchaub/SugarRemoval).<br>
 
 ```
 The parameters were set as follows: 
