@@ -14,7 +14,7 @@ The Dictionary of Natural Products (CRC Press, v25.1)
 
 ### >>>Codes:
 <h4> 1 Data Preprocessing </h4>
-- Extraction and standardization of natural products in DNP database. 
+Extraction and standardization of natural products in DNP database. 
 
 <h4> 2 Biological Source and Structural Type </h4>
 Distribution of natural products from different biological sources or structure types.
